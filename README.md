@@ -1,6 +1,6 @@
 # Hi, I'm Chase Brock 👋
 
-I'm a passionate software developer, student, and web dev hobbyist. I build powerful tools that help creators bring their ideas to life; such as **Bluprint Creative**, a platform for organizing, planning, and scripting YouTube videos from start to finish.
+I'm a passionate software developer, student, and web dev hobbyist. I build powerful tools that help people bring their ideas to life; such as **Bluprint Creative**, a platform for organizing, planning, and scripting YouTube videos from start to finish.
 
 ---
 
@@ -20,7 +20,7 @@ I'm a passionate software developer, student, and web dev hobbyist. I build powe
 
 **Frameworks & Tools:**  
 `Next.js` · `React` · `Node.js` · `Tailwind CSS` · `MongoDB` · `PostgreSQL` · `Prisma`  
-`WordPress` · `Vercel` · `Stripe` · `OAuth` · `REST` · `OpenAI`
+`WordPress` · `Vercel` · `Stripe` · `OAuth` · `REST` · `Supabase`
 
 ---
 
