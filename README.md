@@ -20,7 +20,7 @@ I'm a passionate software developer, student, and web dev hobbyist. I build powe
 
 **Frameworks & Tools:**  
 `Next.js` · `React` · `Node.js` · `Tailwind CSS` · `MongoDB` · `PostgreSQL` · `Prisma`  
-`WordPress` · `Vercel` · `Stripe` · `OAuth` · `REST` · `Supabase`
+`WordPress` · `Vercel` · `Stripe` · `OAuth` · `REST` · `Supabase`· `Tanstack Query`
 
 ---
 
