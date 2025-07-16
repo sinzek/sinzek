@@ -24,7 +24,7 @@ I'm a passionate software developer, student, and web dev hobbyist. I build powe
 
 ---
 
-## 💡 Side Projects
+## 💡 Side Projects (WIP)
 
 - 🎶 **Playlist Convertinator 9000** – Convert Apple Music playlists into YouTube Music.
 - 🐟 **Terraria Fishing Mod** – A fun expansion mod for Terraria fans who love fishing.
