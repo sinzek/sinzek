@@ -7,7 +7,7 @@ I'm a passionate software developer, student, and web dev hobbyist. I build powe
 ## 🚀 What I'm Working On
 
 - 🎥 [**Bluprint Creative**](https://bluprintcreative.com) – Helping creators manage content from idea to upload.
-- 🧠 **Aptable** – A gamified learning platform to make education as addicting as games.
+- 🧠 **cbrock.dev** – My portfolio website where I write in-depth reports on what I'm working on
 - 🛠️ WordPress plugin dev for [bluprintuniversity.com](https://bluprintuniversity.com) and other creator tools.
 - 🌱 Always learning and experimenting with new tech, especially AI and web dev.
 
