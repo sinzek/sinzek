@@ -1,44 +1,23 @@
-# Hi, I'm Chase Brock 👋
+## Hi, I'm Chase Brock 👋
 
-I'm a passionate software developer, student, and web dev hobbyist. I build powerful tools that help people bring their ideas to life; such as **Bluprint Creative**, a platform for organizing, planning, and scripting YouTube videos from start to finish.
-
----
-
-## 🚀 What I'm Working On
-
-- 🎥 [**Bluprint Creative**](https://bluprintcreative.com) – Helping creators manage content from idea to upload.
-- 🧠 **cbrock.dev** – My portfolio website where I write in-depth reports on what I'm working on
-- 🛠️ WordPress plugin dev for [bluprintuniversity.com](https://bluprintuniversity.com) and other creator tools.
-- 🌱 Always learning and experimenting with new tech, especially AI and web dev.
+I'm a passionate software developer, student, and web dev hobbyist. I build powerful tools that help people bring their ideas to life; such as Bluprint Creative, a platform for organizing, planning, and scripting YouTube videos from start to finish.
 
 ---
 
-## 🛠️ Tech I Use
+### 🛠️ Tech I Use
 
 **Languages:**  
 `TypeScript` · `JavaScript` · `C++` · `Python` · `PHP`
 
 **Frameworks & Tools:**  
 `Next.js` · `React` · `Node.js` · `Tailwind CSS` · `MongoDB` · `PostgreSQL` · `Prisma`  
-`WordPress` · `Vercel` · `Stripe` · `OAuth` · `REST` · `Supabase`· `TanStack Query`
+`WordPress` · `Vercel` · `REST` · `Supabase`· `TanStack Query`
 
 ---
 
-## 💡 Side Projects (WIP)
-
-- 🎶 **Playlist Convertinator 9000** – Convert Apple Music playlists into YouTube Music.
-- 🐟 **Terraria Fishing Mod** – A fun expansion mod for Terraria fans who love fishing.
-- 📚 **Aptable** – A gamified course platform that makes learning actually fun.
-
----
-
-## 🤝 Let's Connect!
+### 🤝 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/chasepbrock/)
 - 🌐 [cbrock.dev](https://cbrock.dev)
 - 📨 Open to internships, freelance projects, or collaborations!
-
----
-
-Thanks for stopping by! (｡•̀ᴗ-)✧
 
