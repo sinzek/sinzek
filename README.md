@@ -1,6 +1,6 @@
 ## Hi, I'm Chase Brock 👋
 
-I'm a passionate software developer, student, and web dev hobbyist. I build powerful tools that help people bring their ideas to life; such as Bluprint Creative, a platform for organizing, planning, and scripting YouTube videos from start to finish.
+I'm a passionate software developer, student, and web dev hobbyist. I build tools that help people bring their ideas to life; such as [Bluprint Creative](https://bluprintuniversity.com/creative), a platform for organizing, planning, and scripting YouTube videos from start to finish.
 
 ---
 
