@@ -4,7 +4,7 @@ i'm a passionate software developer, compsci student, and web dev hobbyist. i bu
 
 ---
 
-### 🛠️ tech i use most
+### tech i use most
 
 **languages:**  
 `TypeScript` · `JavaScript` · `C++` · `Python` · `PHP`
