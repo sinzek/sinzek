@@ -17,7 +17,7 @@ i'm a passionate software developer, compsci student, and web dev hobbyist. i bu
 
 ### let's connect!
 
-- [LinkedIn](https://www.linkedin.com/in/chasepbrock/)
+- [linkedin](https://www.linkedin.com/in/chasepbrock/)
 - [cbrock.dev](https://cbrock.dev)
 - open to internships, freelance projects, or collaborations!
 
